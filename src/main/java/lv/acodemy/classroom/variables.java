@@ -34,8 +34,8 @@ public class variables {
         String firstName = "Andrejs";
         String lastName = "Ivanovs";
         // var
-        var myAge = 39;
-        var fullName = "Andrejs Ivanovs";
+        //var myAge = 39;
+        //var fullName = "Andrejs Ivanovs";
 
 
     }
