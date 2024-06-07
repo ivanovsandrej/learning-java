@@ -33,10 +33,7 @@ public class variables {
         //String (any text using double quotes)
         String firstName = "Andrejs";
         String lastName = "Ivanovs";
-        // var
-        //var myAge = 39;
-        // var fullName = "Andrejs Ivanovs";
-
+        
 
     }
 }
