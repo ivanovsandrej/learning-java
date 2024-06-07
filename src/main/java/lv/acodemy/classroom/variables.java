@@ -33,7 +33,7 @@ public class variables {
         //String (any text using double quotes)
         String firstName = "Andrejs";
         String lastName = "Ivanovs";
-        
+
 
     }
 }
