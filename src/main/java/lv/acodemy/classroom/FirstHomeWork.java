@@ -71,5 +71,12 @@ public class FirstHomeWork {
         } else if (averageScores < 60) {
             System.out.println("F");
         }
+        // extension checker
+        String file = "filename.exe";
+        if (file.endsWith(".txt") || file.endsWith(".doc") || file.endsWith(".pdf")) {
+            System.out.println("Valid file extension");
+        } else {
+            System.out.println("Invalid file extension");
+        }
     }
 }
