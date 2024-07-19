@@ -48,7 +48,6 @@ public class Main {
         barsik.sleep();
         barsik.walk();
 
-
     }
 
 
